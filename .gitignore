@@ -1,0 +1,7 @@
+node_modules/
+
+#Mac specific ignores
+*.DS_Store
+.AppleDouble
+.LSOverride
+*.orig
