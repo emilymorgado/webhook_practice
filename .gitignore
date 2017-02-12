@@ -1,4 +1,5 @@
 node_modules/
+keys.json
 
 #Mac specific ignores
 *.DS_Store
